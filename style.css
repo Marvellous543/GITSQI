@@ -72,7 +72,7 @@ body::before {
 .hero {
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  /* align-items: center; */
   padding: 100px 80px;
 }
 
